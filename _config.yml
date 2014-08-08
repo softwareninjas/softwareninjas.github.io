@@ -11,3 +11,6 @@ github_username: softwareninjas
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
+
+gems:
+  - jekyll-sitemap
