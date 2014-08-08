@@ -1,7 +1,7 @@
 # Site settings
 title: Software Ninjas
 email: info@softwareninjas.ca
-description: "Software development excellence, tools and support. The Team Foundation Server (TFS) integration for Jenkins experts."
+description: "Software development excellence, tools and support. The experts at integrating Team Foundation Server (TFS) with Jenkins."
 baseurl: ""
 url: "http://softwareninjas.ca"
 twitter_username: softwareninjas
