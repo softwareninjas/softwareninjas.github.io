@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: product
 title: Offline PivotViewer
+summary: Embeds the Silverlight PivotViewer in a Windows application for offline use.
 permalink: /offlinepivotviewer/
 ---
 

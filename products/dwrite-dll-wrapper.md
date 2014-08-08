@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: product
 title: DWrite.dll wrapper
+summary: Turns off ClearType in Internet Explorer 9
 permalink: /dwrite-dll-wrapper/
 ---
 Are you dissatisfied with Internet Explorer 9's font rendering?

@@ -185,6 +185,9 @@ a:visited { color: #205caa; }
 
 .post-content > * { margin: 20px 0; }
 
+.post-content dl dd {
+  padding-left: 30px;
+}
 
 .post-content h1,
 .post-content h2,
